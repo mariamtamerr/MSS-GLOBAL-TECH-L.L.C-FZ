@@ -13,7 +13,7 @@ const Footer = () => {
               href="#"
               className="flex justify-center  text-[#9EA2B2] text-sm"
             >
-              <span>Copyright © 2024 MSS GLOBAL TECH L.L.C-FZ All rights reserved.</span>
+              <span>Copyright © 2024 MSS GLOBAL TECH All rights reserved.</span>
               {/* <span className='ml-2 flex'>
          Diner <FontAwesomeIcon className=' w-5 ml-2' icon={faUtensils}  />
        </span> */}

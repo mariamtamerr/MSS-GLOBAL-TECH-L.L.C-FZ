@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "MSS GLOBAL TECH L.L.C-FZ",
+  title: "MSS GLOBAL TECH",
   description: "Shop for electronics",
 };
 
