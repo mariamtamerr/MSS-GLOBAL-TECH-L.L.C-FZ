@@ -43,7 +43,7 @@ const Branches = () => {
                     <p>
                     <a
                       className=" inline-block text-[#303238] font-medium text-center  mx-16 "
-                      href="tel:+971553085148"
+                      href="tel:+971563153131"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
